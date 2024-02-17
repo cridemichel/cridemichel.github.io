@@ -1,6 +1,6 @@
 # coding=utf-8
 # Module: advancedsettings
-# Author: Alex Bratchik
+# Author: Cristiano De Michele (orig: Alex Bratchik) 
 # Created on: 20.05.2021
 # License: GPL v.3 https://www.gnu.org/copyleft/gpl.html
 import hashlib
