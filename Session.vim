@@ -18,7 +18,7 @@ badd +0 leia/advancedsettings/resources/settings.src.xml
 argglobal
 %argdel
 set lines=43 columns=153
-winpos 790 465
+winpos 1169 553
 edit leia/advancedsettings/resources/settings.src.xml
 argglobal
 setlocal fdm=manual
@@ -31,12 +31,12 @@ setlocal fdn=20
 setlocal nofen
 silent! normal! zE
 let &fdl = &fdl
-let s:l = 1 - ((0 * winheight(0) + 20) / 41)
+let s:l = 239 - ((0 * winheight(0) + 20) / 41)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 1
-normal! 0
+keepjumps 239
+normal! 09|
 tabnext 1
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
@@ -49,8 +49,6 @@ if filereadable(s:sx)
   exe "source " . fnameescape(s:sx)
 endif
 let &g:so = s:so_save | let &g:siso = s:siso_save
-let g:this_session = v:this_session
-let g:this_obsession = v:this_session
 doautoall SessionLoadPost
 unlet SessionLoad
 " vim: set ft=vim :
