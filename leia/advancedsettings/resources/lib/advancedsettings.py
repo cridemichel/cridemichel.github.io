@@ -20,7 +20,7 @@ PLGFNAME = "settings.xml"
 
 class AdvancedSettings():
     def __init__(self):
-        self.id = "script.unlock.advancedsettings"
+        self.id = "advancedsettings"
         self.addon = xbmcaddon.Addon(self.id)
         self.path = self.addon.getAddonInfo('path')
         self.ads_path = xbmcvfs.translatePath("special://userdata")
