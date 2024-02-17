@@ -6,8 +6,8 @@ To add this repository to KODI install the following zip from Add-ons setting "i
 
 [repository.cridemichel-1.0.3.zip](https://github.com/cridemichel/repository.cridemichel/files/14320068/repository.cridemichel-1.0.3.zip)
 
-### Add-ons in this repository
+## Add-ons in this repository
 
-#Advanced Kodi Settings#
+### Advanced Kodi Settings
 
 [advancedsettings](https://github.com/cridemichel/repository.cridemichel/tree/master/leia/advancedsettings)
