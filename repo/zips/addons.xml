@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.cridemichel" name="cridemichel.github.io" version="1.0.3" provider-name="cridemichel">
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="repository.cridemichel" name="cridemichel.github.io" version="1.0.3" provider-name="cridemichel">
     <extension point="xbmc.addon.repository" name="cridemichel.github.io">
         <dir minversion="18.9.1">
             <info compressed="false">https://raw.githubusercontent.com/cridemichel/cridemichel.github.io/master/leia/zips/addons.xml</info>
@@ -15,11 +15,11 @@
     <extension point="xbmc.addon.metadata">
         <summary>Repositoty of Cristiano De Michele</summary>
         <description>For providing an addon to access kodi advanced settings</description>
-        <disclaimer></disclaimer>
+        <disclaimer />
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon>
+</addon></addons>
