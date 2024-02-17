@@ -10,4 +10,4 @@ To add this repository to KODI install the following zip from Add-ons setting "i
 
 * Advanced Kodi Settings *
 
-- [advancedsettings](https://github.com/cridemichel/repository.cridemichel/tree/master/leia/advancedsettings)
+[advancedsettings](https://github.com/cridemichel/repository.cridemichel/tree/master/leia/advancedsettings)
