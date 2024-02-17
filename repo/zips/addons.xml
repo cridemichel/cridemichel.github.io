@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="repository.cridemichel" name="cridemichel.github.io" version="1.0.3" provider-name="cridemichel">
-    <extension point="xbmc.addon.repository" name="cridemichel.github.io">
+<addons><addon id="repository.cridemichel" name="repository.cridemichel" version="1.0.3" provider-name="cridemichel">
+    <extension point="xbmc.addon.repository" name="repository.cridemichel">
         <dir minversion="18.9.1">
-            <info compressed="false">https://raw.githubusercontent.com/cridemichel/cridemichel.github.io/master/leia/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/cridemichel/cridemichel.github.io/master/leia/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/cridemichel/cridemichel.github.io/master/leia/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/cridemichel/repository.cridemichel/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/cridemichel/repository.cridemichel/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/cridemichel/repository.cridemichel/master/leia/zips/</datadir>
         </dir>
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/cridemichel/cridemichel.github.io/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/cridemichel/cridemichel.github.io/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/cridemichel/cridemichel.github.io/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/cridemichel/repository.cridemichel/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/cridemichel/repository.cridemichel/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/cridemichel/repository.cridemichel/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
