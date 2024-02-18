@@ -122,7 +122,7 @@
     <category id="audio" label="30360">
         <setting id="maxpassthroughoffsyncduration" label="maxpassthroughoffsyncduration" type="number" default="10" />
         <setting id="superviseaudiodelay" label= "superviseaudiodelay" type="bool" default="false" />
-        <setting id="allowmultichannelfloat" label="allowmultichannelfloat" type="bool" defailt="false" />
+        <setting id="allowmultichannelfloat" label="allowmultichannelfloat" type="bool" default="false" />
         <setting id="headroom" label="headroom" type="slider" default="0" range="0,6,12" option="int" />
         <setting id="defaultplayer" label="defaultplayer" type="text" default="VideoPlayer"/>
         <setting id="ac3downmixgain" label="ac3downmixgain" type="number" default="12" />
