@@ -17,4 +17,4 @@ The sources of the add-on can be found in the following folder:
 
 [advancedsettings](https://github.com/cridemichel/repository.cridemichel/tree/master/leia/advancedsettings)
 
-Once you have installed my repository, you can install the add-on called "advancedsettings" (actual version: 1.0.5)
+Once you have installed my repository, you can install the add-on called "advancedsettings" (actual version: 1.0.6)
