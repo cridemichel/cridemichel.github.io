@@ -2,7 +2,7 @@
 
 # KODI REPOSITORY 
 
-To add this repository to KODI install the following zip from Add-ons setting "install from zip"
+To add this repository to KODI you have to install it from the following zip file by using the addon manager (see https://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file)
 
 [repository.cridemichel-1.0.3.zip](https://github.com/cridemichel/repository.cridemichel/files/14320068/repository.cridemichel-1.0.3.zip)
 
